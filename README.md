@@ -1,2 +1,2 @@
 # sanat-galerisi-projesi
-''Smarter cities through AI-powered public data insights.''
+''To change the world, you must first see it. Welcome — this gallery will take you on a different journey.''
